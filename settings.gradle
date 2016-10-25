@@ -1,0 +1,2 @@
+rootProject.name = "Global Store"
+include ':vanilla', ':models', ':dataprovider', ':amethystengine'
